@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![I am a individual Full-Stack Developer.](https://chalkncheese.co.nz/wp-content/uploads/2021/04/Kooger-Co-Chalk-n-Cheese-Web-Development.jpg)
+![I am a individual Full-Stack Developer.](https://www.geekswhogive.org/wp-content/uploads/2019/02/Web-Applications-Services.jpg)
 
 I love to build the Website, webapp and Mobile app
 
