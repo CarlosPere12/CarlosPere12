@@ -2,7 +2,7 @@
 
 ![I am a individual Full-Stack Developer.](https://chalkncheese.co.nz/wp-content/uploads/2021/04/Kooger-Co-Chalk-n-Cheese-Web-Development.jpg)
 
-I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code.
+I love to build the Website, webapp and Mobile app
 
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
